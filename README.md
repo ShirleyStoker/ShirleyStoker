@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-I’m currently learning Data Analysis with CoGrammar
-🐝 Data Analysis
-Ptogramming
-Python
-Customer Service
-Ability to work in a Team
+I’m currently learning Data Analysis with CoGrammar.
+🐝 Data Analysis, 
+Ptogramming,
+Python,
+Customer Service,
+Ability to work in a Team and
 English and Spanish
