@@ -1,6 +1,4 @@
 # **Shirley Stoker**
-### Hi there world, this is Shirley Stoker, good to go!👋
-
 
 ### I’m currently learning Data Analysis with CoGrammar.
 🐝 Data Analysis, 
